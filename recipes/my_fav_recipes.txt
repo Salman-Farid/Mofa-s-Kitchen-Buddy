@@ -1,0 +1,24 @@
+# Mofa's Kitchen Buddy - Recipe Collection
+
+
+RECIPE: string
+Cuisine: string
+Prep Time: 0 minutes
+Difficulty: Medium
+Taste: string
+Ingredients:
+string
+Instructions:
+string
+--------------------------------------------------
+
+RECIPE: spd
+Cuisine: eert
+Prep Time: 10 minutes
+Difficulty: Medium
+Taste: sec
+Ingredients:
+peper 1, bt 1
+Instructions:
+do it as 
+--------------------------------------------------
